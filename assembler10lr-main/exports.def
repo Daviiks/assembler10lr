@@ -1,0 +1,6 @@
+﻿EXPORTS
+StoreText
+RetrieveText  
+GetSharedMessage
+GetSharedConnectionCount
+DisplaySharedInfo
